@@ -1,0 +1,15 @@
+101 John IT 50000 Bangalore Active Male
+102 Alice HR 45000 Chennai Active Female
+103 Bob IT 60000 Hyderabad Active Male
+104 David Finance 55000 Mumbai Inactive Male
+105 Sarah HR 48000 Delhi Active Female
+106 Michael IT 65000 Pune Active Male
+107 Priya Finance 52000 Bangalore Active Female
+108 Ravi Sales 47000 Chennai Inactive Male
+109 Sneha IT 58000 Hyderabad Active Female
+110 Rahul Sales 49000 Mumbai Active Male
+111 Anil HR 46000 Delhi Active Male
+112 Neha Finance 57000 Pune Active Female
+113 Kiran IT 62000 Bangalore Active Male
+114 Meena Sales 51000 Chennai Active Female
+115 Arjun IT 68000 Hyderabad Active Male

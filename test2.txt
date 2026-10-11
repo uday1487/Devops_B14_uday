@@ -1,0 +1,12 @@
+ ls:
+ 
+ ls command is used to display the contents (files,dir's..) which are in pwd
+ 
+ ls -l : This command will display the list of files/dir's in a pwd in a long format
+         (permissions,size,modified etc)
+         
+ ls -lt: This command will display the content in long format along with modification time (latest to oldest)   
+ 
+ ls -lrt: This command will display the content in long format along with modification time (oldest to latest)      
+ 
+ ls -a : This command will display all the hidden files (files starting with .)
