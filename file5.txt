@@ -1,0 +1,26 @@
+
+Syntax: command-1 | command-2
+
+........................................
+
+Ex: head -15 <file-name> | tail -4
+
+Above command display line no 12 to 15 on the terminal
+
+Ex: head <file-name> | tail -1
+
+Above command display only 10th line on the terminal
+
+Ex: head -12 <file-name> | tail -8
+
+Above command display line no 5 to 12 on the terminal
+
+Ex: tail -15 <file-name> | tail -1
+
+Above command display only the 15th line  on the terminal
+
+Ex: tail -4 <file-name> | head -1
+
+Above command display only first line out of last 4 lines of a file
+
+Ex: cat -n <file-name> | tail -3

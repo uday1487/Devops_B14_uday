@@ -1,0 +1,5 @@
+1. How to search and replace case insensitive pattern in vi editor?
+2. How to search the pattern in forward direction?
+   hint: esc/<pattern> -----Enter ---------- and then press n for next pattern
+3. How to search the pattern in reverse direction ?
+4. How to insert a blank line where the cursor is pointing in vi editor?
