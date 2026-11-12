@@ -1,6 +1,6 @@
 #!/bin/bash
 
-a=20
+a=30
 b=10
 
 if [ $a -gt $b ]
